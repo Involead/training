@@ -1,0 +1,70 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "text": "What should raise a red flag when Alex receives an email asking for his bank details?",
+      "options": [
+        { "id": "A", "text": "The email's friendly tone." },
+        { "id": "B", "text": "The urgent request for sensitive information." },
+        { "id": "C", "text": "The email includes a greeting by name." },
+        { "id": "D", "text": "The email signature looks professional." }
+      ],
+      "correctAnswer": "B",
+      "description": "Phishing emails often create a sense of urgency to trick the recipient into quickly divulging sensitive information without proper verification."
+    },
+    {
+      "id": "2",
+      "text": "Why was the email Alex received considered a phishing attempt?",
+      "options": [
+        { "id": "A", "text": "It was sent outside of business hours." },
+        { "id": "B", "text": "It was marked as important." },
+        {
+          "id": "C",
+          "text": "It did not come from Anita’s official \"involead\" email domain."
+        },
+        { "id": "D", "text": "It was sent to multiple recipients." }
+      ],
+      "correctAnswer": "C",
+      "description": "A key indicator of a phishing email is the sender's email address not matching the official domain of the organization they claim to represent."
+    },
+    {
+      "id": "3",
+      "text": "Which characteristic of phishing emails was highlighted by the scam email pretending to be from HR?",
+      "options": [
+        { "id": "A", "text": "Use of high-quality images." },
+        {
+          "id": "B",
+          "text": "Requests for immediate action or sharing of personal information."
+        },
+        { "id": "C", "text": "Providing a contact number for queries." },
+        { "id": "D", "text": "Mentioning the company’s name several times." }
+      ],
+      "correctAnswer": "B",
+      "description": "Urgent requests for action or personal information are tactics used by scammers to pressure victims into making hasty decisions."
+    },
+    {
+      "id": "4",
+      "text": "What is the best practice when you receive an email that seems suspicious or asks for sensitive information?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Reply with the requested information if the sender appears to be someone you know."
+        },
+        {
+          "id": "B",
+          "text": "Ignore the email completely and do not inform anyone."
+        },
+        {
+          "id": "C",
+          "text": "Verify the sender’s email address and contact the supposed sender through a different communication channel to confirm the request."
+        },
+        {
+          "id": "D",
+          "text": "Forward the email to your friends to see if they received a similar one."
+        }
+      ],
+      "correctAnswer": "C",
+      "description": "Verifying the authenticity of the request through a different communication channel is a safe practice to avoid falling for phishing scams."
+    }
+  ]
+}
