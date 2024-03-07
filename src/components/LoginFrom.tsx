@@ -29,7 +29,7 @@ export const LoginFrom = () => {
     <>
       <form className="bg-white shadow-md rounded px-8 pt-6 pb-8 mb-4" style={loginForm} onSubmit={handleSubmit}>
         <div className="mb-1 flex justify-center">
-          <Image src="./clogo.png" alt="Logo" width={80} height={80} />
+          <Image src="/clogo.png" alt="Logo" width={80} height={80} />
         </div>
         <div className="mb-4">
           <label className="block text-gray-700 text-sm font-bold mb-2" htmlFor="name">
