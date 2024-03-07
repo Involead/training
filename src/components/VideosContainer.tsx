@@ -2,7 +2,7 @@
 import React, { useState, useRef } from 'react';
 import Link from "next/link";
 
-const videoUrl = "cyber-security-1.mp4";
+const videoUrl = "./cyber-security-1.mp4";
 
 export const VideosContainer = () => {
   const [buttonEnabled, setButtonEnabled] = useState(false);
